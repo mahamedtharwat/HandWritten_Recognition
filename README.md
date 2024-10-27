@@ -1,4 +1,4 @@
-# Neural Network💡:
+# Neural Network 🧠 :
 ## 1. A single layer perceptron (SLP) : 
   * is a feed-forward network based on a threshold transfer function. 
   * SLP is the simplest type of artificial neural networks and can only classify linearly separable cases with a binary target (1 , 0).
